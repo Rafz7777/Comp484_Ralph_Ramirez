@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Comp 484/.vscode/CSUN Repository"
 		}
 	],
 	"settings": {}
