@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "comp484-hw1",
-			"path": "../../../Desktop/Comp 484/.vscode/comp484-hw1"
 		}
 	],
 	"settings": {}
